@@ -14,6 +14,14 @@ https://www.markit.eu/fr/fr/BackOffice/ProductCatalog/ManageDigitalContent.aspx?
 
 https://www.markit.eu/fr/en/BackOffice/ProductCatalog/ManageDigitalContent.aspx?ProductID=9608738
 
+def img
+https://www.markit.eu/pl/en/kyocera-dv-8505m-magenta-developer-kit-for-taskalfa/v2p8580680
+https://www.markit.eu/cz/en/sony-projector-air-filter-for-vpl-fh30/v2p7633831c120309
+https://www.markit.eu/cz/en/motorola-cradle-adapter-cup-handheld-cradle-charging-cup/v2p8812992
+https://www.markit.eu/ee/en/modecom-tablet-freetab-1001-ips-x4-7-8/v2p8112503c110301
+https://www.markit.eu/ee/et/sony-playstation-3-500gb-watch-dogs/v2p8976360
+http://www.markit.eu/pl/en/global-technology-screen-protector-transparent-for-samsung-
+
 
 SZ-U8GFINGER - vale brändiga cnetis
 
